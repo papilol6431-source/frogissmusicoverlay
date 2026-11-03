@@ -1,0 +1,8 @@
+{
+  "key.category.frogissmusicoverlay.main": "FrogIsMusicOverlay",
+  "key.frogissmusicoverlay.open": "Einstellungen \u00f6ffnen",
+  "key.frogissmusicoverlay.toggle": "Lyrics an/aus",
+  "key.frogissmusicoverlay.earlier": "Lyrics fr\u00fcher (-250 ms)",
+  "key.frogissmusicoverlay.later": "Lyrics sp\u00e4ter (+250 ms)",
+  "key.frogissmusicoverlay.pin": "Lyrics hier in der Welt festsetzen"
+}

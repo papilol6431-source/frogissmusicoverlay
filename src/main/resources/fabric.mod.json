@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "frogissmusicoverlay",
+  "version": "${version}",
+  "name": "FrogIsMusicOverlay",
+  "description": "Zeigt Spotify-Lyrics (synchronisiert) als HUD oder 3D im Raum: Himmel, vor dir, auf dem Wasser, fest in der Welt oder kreisend. Mit komplettem Einstellungsmenue.",
+  "authors": ["FrogIs"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.frogis.musicoverlay.FrogisMusicOverlayClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*",
+    "yet_another_config_lib_v3": "*"
+  }
+}
